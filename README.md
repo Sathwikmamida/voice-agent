@@ -1,7 +1,5 @@
 #  LiveKit LLM Voice Agent
 
-A production-ready real-time AI voice assistant built using LiveKit, Google Speech-to-Text, OpenAI GPT, and Google Text-to-Speech.
-
 This project demonstrates real-time audio streaming, intelligent LLM-based response generation, interruption handling, and modular production architecture using Python.
 
 ---
