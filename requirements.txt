@@ -1,0 +1,8 @@
+livekit
+google-cloud-speech
+google-cloud-texttospeech
+openai
+numpy
+webrtcvad
+python-dotenv
+structlog
